@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\denab\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,46): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\denab\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,2): error C2065: f: необъявленный идентификатор
+C:\Users\denab\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(21,2): error C2065: f: необъявленный идентификатор
+C:\Users\denab\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(22,2): error C2065: f: необъявленный идентификатор
+C:\Users\denab\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(24,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных

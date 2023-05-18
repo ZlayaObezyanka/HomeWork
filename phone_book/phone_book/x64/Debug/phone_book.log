@@ -1,0 +1,5 @@
+﻿  phone_book.cpp
+C:\Users\denab\source\repos\phone_book\phone_book\phone_book.cpp(48,14): error C2511: Phone_book::Phone_book(void): перегруженная функция-член не найдена в "Phone_book"
+C:\Users\denab\source\repos\phone_book\phone_book\phone_book.cpp(20,7): message : см. объявление "Phone_book"
+C:\Users\denab\source\repos\phone_book\phone_book\phone_book.cpp(58,13): error C2512: Phone_book: нет подходящего конструктора по умолчанию
+C:\Users\denab\source\repos\phone_book\phone_book\phone_book.cpp(20,7): message : см. объявление "Phone_book"

@@ -1,0 +1,5 @@
+﻿  ffff_k.cpp
+C:\Users\denab\source\repos\ffff_k\ffff_k\game.h(84,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\denab\source\repos\ffff_k\ffff_k\game.h(84,22): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\denab\source\repos\ffff_k\ffff_k\ffff_k.cpp(21,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ffff_k.vcxproj -> C:\Users\denab\source\repos\ffff_k\x64\Debug\ffff_k.exe
